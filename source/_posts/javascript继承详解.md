@@ -6,7 +6,7 @@ tags:
 - 面向对象
 - 前端
 ---
-上一篇[javascript继承的简单实现](https://sunzhen086.github.io/blog/content/201704061102-20170406/)一文中已经介绍了继承，但那篇只能算简介。本篇结合原型链详细介绍一下JavaScript的继承。
+上一篇[javascript继承的简单实现](/blog/content/javascript继承的简单实现/)一文中已经介绍了继承，但那篇只能算简介。本篇结合原型链详细介绍一下JavaScript的继承。
 
 通常除非小应用，那像JavaScript继承一文中那样直接写写代码就行了。如果是大型应用或者库函数，对于继承这种稍显复杂的代码结构，通常会封装成一个inherit函数。例如：
 ```javascript

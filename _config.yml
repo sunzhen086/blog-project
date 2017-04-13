@@ -14,7 +14,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://sunzhen086.github.io/blog
 root: /blog/
-permalink: content/:title-:year:month:day/
+permalink: content/:title/
 permalink_defaults:
 
 # Directory

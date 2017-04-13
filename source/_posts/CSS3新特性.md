@@ -147,7 +147,7 @@ background: url(src/zippy-plus.png) 10px center no-repeat,
 
 # CSS3 的盒子模型
 参考文章：
-[弹性布局（Flex布局）](https://sunzhen086.github.io/blog/content/201704111036-20170411/)
+[弹性布局（Flex布局）](/blog/content/弹性布局（Flex布局）/)
 
 # CSS3 的 Transitions, Transforms 和 Animation
 ### Transitions
